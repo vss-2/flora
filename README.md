@@ -8,6 +8,7 @@ needed. This repository contains the front-end implementation of the
 following pages: landing page, chat page, store, register, login and 
 logout screens.
 
+![Flora's landing page](https://raw.githubusercontent.com/vss-2/vss-2/main/Flora.png)
 
 ## Disclaimer
 This is a [Next.js](https://nextjs.org/) project bootstrapped with
